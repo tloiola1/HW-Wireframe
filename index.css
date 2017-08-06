@@ -1,0 +1,109 @@
+body{
+	font-family: Arial, 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	background-color: #A9A9A9;
+	height: 100%;
+	color: #777;
+}
+
+header{
+	background-color: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+h1{
+	padding: 20px;
+	margin: 0 130px;
+	display: inline;
+	color: #ebebeb;
+	background-color: #008080; 
+	border: 1px solid #008080;
+}
+
+nav{
+	margin: 0 130px;
+ 	float: right;
+ }
+ a{
+ 	text-decoration: none;
+ 	color:inherit;
+ }
+section{
+	background-color: #ebebeb;
+	width: 60%;
+	height: 500px;
+	float:left;
+	margin-bottom: 20px;
+	clear: both;
+	overflow: auto;
+}
+
+aside{
+	background-color: #ebebeb;
+	width:30%;
+	height: 200px; 
+	float: right;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+.aboutMe,
+.connectWithMe{
+	margin: 20px;
+	color: 	#008080;
+	border-bottom: 4px solid #777;
+	clear: both;
+	overflow: auto;
+}
+
+footer {
+	color: #ebebeb;
+	margin: 0 150px 0 150px;
+	border-top: 7px solid #008080;
+	font-size: 12px;
+	text-align: center;
+	padding: 20px;
+  	bottom: 0;
+	background-color: #777;
+	clear: both;
+	overflow: auto;
+}
+
+.section-aside{
+	margin: 0 150px;
+}
+img{
+	margin-right: 20px;
+	float: left;
+	height:150px;
+	width: 150px;
+	border-radius: 10px;
+}
+
+.aboutMe_child{
+	padding: 0 20px;
+}
+
+.gitHub{
+	padding: 0 20px;
+	float:left;
+	width: 20%;
+	color: black;
+}
+
+.in{
+	padding: 0 20px;
+	float:left;
+	width: 20%;
+	color:#007bb6;
+}
+
+.codePen{
+	float:left;
+	width: 20%;
+	color: black;
+
+}
+
+
+
