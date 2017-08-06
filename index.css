@@ -4,6 +4,10 @@ body{
 	background-color: #A9A9A9;
 	height: 100%;
 	color: #777;
+	overflow: hidden;
+}
+p{
+	line-height: 35px;
 }
 
 header{
@@ -32,11 +36,10 @@ nav{
 section{
 	background-color: #ebebeb;
 	width: 60%;
-	height: 500px;
+	height: 450px;
 	float:left;
 	margin-bottom: 20px;
 	clear: both;
-	overflow: auto;
 }
 
 aside{
